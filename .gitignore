@@ -1,0 +1,12 @@
+Donation_tracking/node_modules/
+.nuxt/
+Donation_tracking/.env
+Donation_tracking/dist/
+Donation_tracking/coverage/
+*.log
+*.debug
+.DS_Store
+.vscode/
+.idea/
+yarn.lock
+Donation_tracking/.nuxt
