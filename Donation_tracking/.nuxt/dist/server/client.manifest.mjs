@@ -1,0 +1,1 @@
+export { default } from "file:///home/grrhrwh/Documents/GitHub/Donation_tracking/Donation_tracking/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
