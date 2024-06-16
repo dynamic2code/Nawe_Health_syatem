@@ -12,16 +12,14 @@ Donation Tracker is a comprehensive platform designed to streamline the process 
 
 ### Donation Tracking
 - Track blood, kidney, and other types of donations
-- Status updates for donation processes (e.g., pending, completed, in-transit)
 - Historical donation records for donors
 
 ### Documentation Management
-- Upload and manage necessary documents for donations (e.g., medical records, consent forms)
-- Generate and store digital copies of donation-related documents
+- Upload and manage necessary documents for donations
 - Secure document storage with access control
 
 ### Communication Tools
-- Automated email notifications and reminders for donors
+- Automated email and sms notifications and reminders for donors
 - Direct messaging between donors and administrators
 - Updates and alerts about donation campaigns and drives
 
@@ -52,7 +50,7 @@ To get started with Donation Tracker, follow these steps:
 ### Steps
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/donation-tracker.git
+    git clone https://github.com/dynamic2code/donation_tracking.git
     cd donation-tracker
     ```
 
