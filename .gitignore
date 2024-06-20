@@ -1,2 +1,3 @@
 Donation_tracker/create_app.py
 Donation_tracker/db.sqlite3
+.env
