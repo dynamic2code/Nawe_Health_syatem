@@ -1,5 +1,6 @@
 Donation_tracker/create_app.py
 Donation_tracker/db.sqlite3
+Donation_tracker/venv
 .env
 Donation_tracker/Donation/migrations
 Donation_tracker/Doctor/migrations
@@ -18,5 +19,6 @@ Donation_tracker/Patient/__pycache__
 Donation_tracker/Appointment/__pycache__
 Donation_tracker/Appointment/migrations/__pycache__
 Donation_tracker/Donation_tracker/__pycache__
+
 
 
