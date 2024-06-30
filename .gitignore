@@ -7,6 +7,7 @@ Donation_tracker/Doctor/migrations
 Donation_tracker/Donor/migrations
 Donation_tracker/Hospital/migrations
 Donation_tracker/Patient/migrations
+Donation_tracker/Appointment/migrations
 
 Donation_tracker/Hospital/__pycache__
 Donation_tracker/Donation_tracker/__pycache__
@@ -19,6 +20,7 @@ Donation_tracker/Patient/__pycache__
 Donation_tracker/Appointment/__pycache__
 Donation_tracker/Appointment/migrations/__pycache__
 Donation_tracker/Donation_tracker/__pycache__
+
 
 
 
